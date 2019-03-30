@@ -4,16 +4,17 @@
 
 # Site
 title: Tina Kuo Books
-subtitle: A place to celebrate and have fun <br/> with books that Tina has written <br/> over the years. 
+#subtitle: A place to celebrate and have fun <br/> with books that Tina has written <br/> over the years. 
+subtitle: 郭瀞婷
 description: A place to celebrate books written by my wife Tina Kuo!
 keywords:
 author: Michael S. Huang
-language:
+language: 
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://tinakuobooks.github.io
+url: http://www.tinakuobooks.com
 root: /
 permalink: :category/:title/
 permalink_defaults:
@@ -74,7 +75,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-theme: clean-blog
+#theme: clean-blog
+theme: hexo-theme-matery
 theme_config:
   #index_cover: http://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/img/home-bg.jpg
   index_cover: /images/Tina_DingXiaoFei.jpg
