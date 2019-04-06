@@ -79,14 +79,14 @@ pagination_dir: page
 theme: hexo-theme-matery
 theme_config:
   #index_cover: http://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/img/home-bg.jpg
-  index_cover: /images/Tina_DingXiaoFei.jpg
-  menu:
-    Home: /
-    Archives: /archives
-    Tags: /tags
-    Categories: /categories
-  menu_title: Tina Kuo Books
-  github_url: 
+  # index_cover: /images/Tina_DingXiaoFei.jpg
+  # menu:
+  #   Home: /
+  #   Archives: /archives
+  #   Tags: /tags
+  #   Categories: /categories
+  # menu_title: Tina Kuo Books
+  # github_url: 
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
