@@ -1,6 +1,8 @@
 ---
 title: Hello Tina Kuo (郭瀞婷) Book Fans!
 date: 2019-03-04 19:30:05
+img: /images/Hello_DingxiaoFei.png
+summary: Hello and Welcome to this blog!
 categories:
 - general
 tags:
